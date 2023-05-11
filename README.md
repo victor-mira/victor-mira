@@ -1,4 +1,10 @@
-### Hi there 👋
+# Victor MIRA
+
+
+
+## 💬 About Me
+I am a last year engineering computer science student at University of Technonogie at Belfort Montbeliard and I am finishing a Computer science master in University of Quebec At Chicoutimi
+I'm mainly focused on Artificial intelligence and web development and I am currently searching for a 6 month last year internship in Artificial Intelligence
 
 <!--
 **victor-mira/victor-mira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
